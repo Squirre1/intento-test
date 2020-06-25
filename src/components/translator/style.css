@@ -1,0 +1,10 @@
+.translator {
+	width: 100%;
+	height: 300px;
+}
+
+.translator textarea {
+	width: 100%;
+	height: 100px;
+	resize: none;
+}
