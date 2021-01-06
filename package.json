@@ -24,7 +24,7 @@
   ],
   "dependencies": {
     "@types/js-cookie": "^2.2.6",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "js-cookie": "^2.2.1",
     "preact": "^10.3.1",
     "preact-render-to-string": "^5.1.9",
